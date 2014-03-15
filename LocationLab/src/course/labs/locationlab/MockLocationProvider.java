@@ -44,3 +44,15 @@ public class MockLocationProvider {
 		mLocationManager.removeTestProvider(mProviderName);
 	}
 }
+
+/***** for emacs
+Local Variables:
+c-basic-offset: 4
+tab-width: 4
+indent-tabs-mode: t
+End:
+*/
+/***** for vi and vim
+vi: set ts=4 sw=4 noet:
+*/
+
